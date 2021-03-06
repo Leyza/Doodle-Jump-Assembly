@@ -1,7 +1,5 @@
 #####################################################################
 #
-# CSC258H5S Fall 2020 Assembly Final Project
-#
 # Bitmap Display Configuration:
 # - Unit width in pixels: 8
 # - Unit height in pixels: 8
@@ -9,12 +7,7 @@
 # - Display height in pixels: 512
 # - Base Address for Display: 0x10008000 ($gp)
 #
-# Which milestone is reached in this submission?
-# (See the assignment handout for descriptions of the milestones)
-# - Milestone 5
-#
-# Which approved additional features have been implemented?
-# (See the assignment handout for the list of additional features)
+# Features:
 # 1. Score board
 # 2. Game Over/Retry
 # 3. Increase jump speed based on score (Max speed at around score 3000)
@@ -23,7 +16,7 @@
 # 6. Lethal creatures spawn randomly
 # 7. Input name at beginning of first playthrough
 #
-# Any additional information that the TA needs to know:
+# Usage information:
 # 4x4 red blocks are lethal creatures
 # 1x1 grey blocks are springs: jump 30 blocks
 # 1x1 pink blocks are rockets: jump 100 blocks
