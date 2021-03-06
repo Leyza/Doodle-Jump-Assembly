@@ -1,6 +1,6 @@
-# CSC258project
+# Doodle Jump Assembly Project
 
-Doodle jump-like game created with assembly as final project.
+Doodle jump-like game created with assembly as final project for a course.
 
 Movement keys:
 >  move left - "j"\
